@@ -18,4 +18,3 @@ switch (day){
     case "Sunday":
         console.log("Today is Sunday");
 }
-let 
